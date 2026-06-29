@@ -1,0 +1,434 @@
+canonical_identifier: bkk:krp/KR3j0006/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3j0006/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鶡冠子
+  identifiers:
+    krp: KR3j0006
+  tags:
+    kr-categories: KR3j
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat08110
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0006.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0006_001-tls.yaml, hash: 'sha256:fddb45150474c12be4c5371fe9e6d9144bc3354a4c2d58562f9ad3669fee9b5e'}
+  - {seq: 2, filename: KR3j0006_002-tls.yaml, hash: 'sha256:aea849d1cb75c2b158218edfe1b85893be6a3ce1d834ad2cac461e8de1165c08'}
+  - {seq: 3, filename: KR3j0006_003-tls.yaml, hash: 'sha256:e21d2c05855270ebaf1c156934d2a0da3c36c593f731267f6a37208843e37125'}
+  - {seq: 4, filename: KR3j0006_004-tls.yaml, hash: 'sha256:4a884e56f54fe893bf44ce2eda97bceb104871bbd9820de60273126031f1d15d'}
+  - {seq: 5, filename: KR3j0006_005-tls.yaml, hash: 'sha256:711ff0e2dacbda535003720b3378ce22b351ea3418682d49d7233cd87862ced5'}
+  - {seq: 6, filename: KR3j0006_006-tls.yaml, hash: 'sha256:e08e2e3066f06522d3e505663cb6a88df6720858fe14c38ccfde11df2dc47e01'}
+  - {seq: 7, filename: KR3j0006_007-tls.yaml, hash: 'sha256:e73c78d96766d33b4abb148bc4a1d9216ad6edb2c57841ce935f99d23013f88c'}
+  - {seq: 8, filename: KR3j0006_008-tls.yaml, hash: 'sha256:55ecafbb3664eeb6acef58338c2a028293487d7ee1e9f73e2906d2759e025a2b'}
+  - {seq: 9, filename: KR3j0006_009-tls.yaml, hash: 'sha256:5ff3e8a1e1f58c3be523b5d6d56de09285ee9387de23112fa02046fa98922f03'}
+  - {seq: 10, filename: KR3j0006_010-tls.yaml, hash: 'sha256:d721bd03dc76e3d3a6c1f1a129e607b5e506f446014187579eaffe74e764a916'}
+  - {seq: 11, filename: KR3j0006_011-tls.yaml, hash: 'sha256:8446c8f869312cd163421d9f85cd799b427cf1f29d41307635eb989b64e0d9fc'}
+  - {seq: 12, filename: KR3j0006_012-tls.yaml, hash: 'sha256:8afa6fbbf33a24a84a7181d35e9b42a236044fdbe48f528f529540fc1170e6c5'}
+  - {seq: 13, filename: KR3j0006_013-tls.yaml, hash: 'sha256:0a7604cf25bf2c90c61bd4838a8fc86fcce5e71eac9e26fc3dfc382f037abf3f'}
+  - {seq: 14, filename: KR3j0006_014-tls.yaml, hash: 'sha256:9b3f16434aeff230ed9c3ea5eaa9e4728a3ef1d538b22a8e1b51e773165fcdd3'}
+  - {seq: 15, filename: KR3j0006_015-tls.yaml, hash: 'sha256:71a4c9cc09dc8fae475834ee2ee4faf564ccd885ed0c143fc37dda3f27abce38'}
+  - {seq: 16, filename: KR3j0006_016-tls.yaml, hash: 'sha256:989129380b17995b461cc70eb773a6769097d0a1ce46bdff115a8ba9cfe87e6c'}
+  - {seq: 17, filename: KR3j0006_017-tls.yaml, hash: 'sha256:7d9c55e405d9eed9a4fb4e44cea1db26b66aedec433e461edd40ac3a83bb6023'}
+  - {seq: 18, filename: KR3j0006_018-tls.yaml, hash: 'sha256:99554276391f2a2ad5c87a74e724646e5d108e62eea1238038816f989b0a5eb6'}
+  - {seq: 19, filename: KR3j0006_019-tls.yaml, hash: 'sha256:8a3959da2afb7348675a72d12adba5d0dc54c3d18d287c3c37fbd3af0b05b0b4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0006_001-tls.markers.yaml, hash: 'sha256:7e8dcebc76e56fb1a942a4b84280873e1dedace38c1e4ce97729ad6f94008df5'}
+  - {seq: 2, role: markers, filename: assets/KR3j0006_002-tls.markers.yaml, hash: 'sha256:e820657afbdacf6fb781ffd3773cfa58db0e4f837f57d940004c0869a5b16be3'}
+  - {seq: 3, role: markers, filename: assets/KR3j0006_003-tls.markers.yaml, hash: 'sha256:737fb6ac0ce3789a43e0b0c48ce8441c750b958eb7242d18fffc35f9ca271f48'}
+  - {seq: 4, role: markers, filename: assets/KR3j0006_004-tls.markers.yaml, hash: 'sha256:802ec85e17ed9f0724e6b4b0fba65951d3884ac7b2dca0740e1601cf20cf7fc3'}
+  - {seq: 5, role: markers, filename: assets/KR3j0006_005-tls.markers.yaml, hash: 'sha256:27a0857728428231b92a2e1c95cb57c2fe5edab817d57c5eb65c335d4353a085'}
+  - {seq: 6, role: markers, filename: assets/KR3j0006_006-tls.markers.yaml, hash: 'sha256:354128fd6d04db4217d4d75a81e14d3be896e33c796e717b0cb4580d5cd14cc8'}
+  - {seq: 7, role: markers, filename: assets/KR3j0006_007-tls.markers.yaml, hash: 'sha256:bf4fb4a9dfe7d139c16912327bc054cb43a6882da149844d4645e0626253040f'}
+  - {seq: 8, role: markers, filename: assets/KR3j0006_008-tls.markers.yaml, hash: 'sha256:f8854296242d0b6cdfbdca50fb1db3bafa387a72b68dc6b8cbf081940fb88e8a'}
+  - {seq: 9, role: markers, filename: assets/KR3j0006_009-tls.markers.yaml, hash: 'sha256:c7d3be7de0e4e5fc193d77e50489976a4a7920d204b6909cdfbf0c31980562fe'}
+  - {seq: 10, role: markers, filename: assets/KR3j0006_010-tls.markers.yaml, hash: 'sha256:012e814b3bca0ce47a46671790f4ed69bdf028214456642d91a170d006e2fed3'}
+  - {seq: 11, role: markers, filename: assets/KR3j0006_011-tls.markers.yaml, hash: 'sha256:57dd6172a26d573cbc1817b7253cc15e4a251304ce531e5249659b4982da116b'}
+  - {seq: 12, role: markers, filename: assets/KR3j0006_012-tls.markers.yaml, hash: 'sha256:b84d1d36894e7bde75c5db6bbfa29187831c4a5778059486efaa5fb39d26e62d'}
+  - {seq: 13, role: markers, filename: assets/KR3j0006_013-tls.markers.yaml, hash: 'sha256:8ea00492f85f8cc55108386b239560e80f010d5a7f4b433d2e3b9b1d557702a7'}
+  - {seq: 14, role: markers, filename: assets/KR3j0006_014-tls.markers.yaml, hash: 'sha256:1a74368c0c61ff8172edffa120a24853823421c6bfcf9f005d071a417de475bf'}
+  - {seq: 15, role: markers, filename: assets/KR3j0006_015-tls.markers.yaml, hash: 'sha256:6379d88a14edc0d447f7109d3ff82eb5bfc42a1378d26f146b79695528478ef4'}
+  - {seq: 16, role: markers, filename: assets/KR3j0006_016-tls.markers.yaml, hash: 'sha256:bb65728c062af4495ef4c4c0d29eb65809d1d5b0d41d6985c49e5fc52ec74f13'}
+  - {seq: 17, role: markers, filename: assets/KR3j0006_017-tls.markers.yaml, hash: 'sha256:d9373cc9d42bc23891392c26d615f7e60d3c049f915a04677d6fd3914b1561a7'}
+  - {seq: 18, role: markers, filename: assets/KR3j0006_018-tls.markers.yaml, hash: 'sha256:3323c99dd622c001b9e471e5cf4e7ad18e92d835d9489b4d3672f28564f49f14'}
+  - {seq: 19, role: markers, filename: assets/KR3j0006_019-tls.markers.yaml, hash: 'sha256:2df323747055c2fa77fd4e4ad777cca01e98200539f3d4183f0254c993690bff'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0006_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 306
+  label: 博選第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0006_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 博選第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0006_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 330
+  label: 著希第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0006_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 著希第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0006_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 139
+  label: 夜行第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0006_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 夜行第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0006_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 1288
+  label: 天則第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0006_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 天則第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0006_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 794
+  label: 環流第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0006_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 環流第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0006_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 1033
+  label: 道端第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0006_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 道端第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0006_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 988
+  label: 近佚第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0006_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 近佚第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0006_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 1162
+  label: 度萬第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0006_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 度萬第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0006_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 2407
+  label: 王鈇第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0006_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 王鈇第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0006_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 991
+  label: 泰鴻第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0006_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 泰鴻第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0006_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 888
+  label: 泰錄第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3j0006_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 泰錄第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3j0006_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 1242
+  label: 世兵第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3j0006_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 世兵第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3j0006_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 603
+  label: 備知第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3j0006_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 備知第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3j0006_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 393
+  label: 兵政第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3j0006_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 兵政第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3j0006_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 515
+  label: 學問第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3j0006_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 學問第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3j0006_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 348
+  label: 世賢第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3j0006_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 世賢第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3j0006_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 1195
+  label: 天權第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3j0006_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 天權第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3j0006_tls_018-1a.3-h
+    span:
+    - body
+    - 0
+    - 844
+  label: 能天第十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3j0006_tls_018-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 能天第十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3j0006_tls_019-1a.3-h
+    span:
+    - body
+    - 0
+    - 425
+  label: 武靈王第十九
+  type: section
+  level: 1
+hash: sha256:ef3a5fe708c7f2c949670a1ddca92cb4068cd9d9c2d97168f85dd146d62bf4d6
