@@ -40,7 +40,6 @@ markers:
   - {type: variant, offset: 16, length: 4, content: 耑與運堯, WYG: 主官以授長者在内和者在外夫長者之為官也在内則正義在外則固守用法則平法人本無害以端天地令出一或無一字原多門杜矣散無方化萬物萬物一本作無物者令也守一道制萬物者法也法也者守内者也法者守於分域之内令也者出制者也令者所以行法夫法不敗是是出於義變而不可常法者所以趣變令不傷理主出於理一而不可變令者所以守法故君子得而尊小人得而謹胥或作冒靡得以全神備於心道備於形備天地之美稱神明之容人以成則以成法則士或作土以為繩以為繩墨列或作削時第氣以授當名故法錯而隂陽調鳳凰者鶉火之禽或無鶉火之禽𤣥枵之獸字陽之精也雄曰鳳凰者其雌也鶉火南星之次也麒麟者𤣥枵之獸隂之精也牝曰麒麟者其牡也𤣥枵北星之次也麒似麟}
   - {type: page-break, offset: 16, content: '', id: KR3j0006_WYG_002-4a, image: WYG0848/WYG0848-0218a.png}
   - {type: variant, offset: 16, length: 4, content: 耑與運堯, krp: 主官以授長者在内和者在外夫長者之為官也在内則正義在外則固守用法則平法人本無害以端天地令出一或無一字原多門杜矣散無方化萬物萬物一本作無物者令也守一道制萬物者法也法也者守内者也法者守於分域之内令也者出制者也令者所以行法夫法不敗是是出於義變而不可常法者所以趣變令不傷理主出於理一而不可變令者所以守法故君子得而尊小人得而謹胥或作冒靡得以全神備於心道備於形備天地之美稱神明之容人以成則以成法則士或作土以為繩以為繩墨列或作削時第氣以授當名故法錯而隂陽調鳳凰者鶉火之禽或無鶉火之禽𤣥枵之獸字陽之精也雄曰鳳凰者其雌也鶉火南星之次也麒麟者𤣥枵之獸隂之精也牝曰麒麟者其牡也𤣥枵北星之次也麒似麟}
-  - {type: substitution, offset: 16, original: 耑, replacement: 專, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0026}}
   - {type: punctuation, offset: 20, content: ，, id: KR3j0006_tls_002-bkkpn4}
   - {type: variant, offset: 22, length: 0, content: '', WYG: 角萬民者德之精也德能致之或作駿其或無其字精畢至龎子曰致之奈何鶡冠子曰天地隂陽取稽於身故布五正}
   - {type: page-break, offset: 22, content: '', id: KR3j0006_WYG_002-4b, image: WYG0848/WYG0848-0218b.png}
@@ -228,7 +227,6 @@ markers:
   - {type: variant, offset: 167, length: 14, content: 夫亂世者以麤智為造意以中險為, krp: ''}
   - {type: punctuation, offset: 171, content: 、, id: KR3j0006_tls_002-bkkpn37}
   - {type: 'tls:seg', offset: 171, content: '', id: KR3j0006_tls_002-1a.34}
-  - {type: substitution, offset: 172, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
   - {type: punctuation, offset: 177, content: ，, id: KR3j0006_tls_002-bkkpn38}
   - {type: 'tls:seg', offset: 177, content: '', id: KR3j0006_tls_002-1a.35}
   - {type: punctuation, offset: 182, content: ，, id: KR3j0006_tls_002-bkkpn39}
@@ -299,7 +297,6 @@ markers:
   - {type: 'tls:seg', offset: 238, content: '', id: KR3j0006_tls_002-1a.43}
   - {type: variant, offset: 238, length: 2, content: 絕豫, WYG: 請如請益之請盖衆者自我}
   - {type: variant, offset: 238, length: 2, content: 絕豫, krp: 請如請益之請盖衆者自我}
-  - {type: substitution, offset: 238, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: variant, offset: 241, length: 0, content: '', WYG: 千萬則其一之亦在我矣請以一范}
   - {type: variant, offset: 241, length: 0, content: '', krp: 千萬則其一之亦在我矣請以一范}
   - {type: variant, offset: 242, length: 1, content: 由, WYG: 不可者順愛之政殊類相或作未}
@@ -402,4 +399,4 @@ markers:
   - {type: xml-element, offset: 330, content: '', id: KR3j0006_tls_002-bkkxmlele11}
   - {type: xml-element, offset: 330, content: '', id: KR3j0006_tls_002-bkkxmlele12}
   back: []
-hash: sha256:d6bd789f1b148086fb9e2e4c21ac0fe0900695ef53c5dfdcb8d51ca9410bb179
+hash: sha256:cec8ec2f8aab42ae049bbe2a273143e19e140eade76e018545b4f53e4f8bd23a
