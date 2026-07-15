@@ -178,6 +178,7 @@ markers:
   - {type: variant, offset: 89, length: 2, content: 強為, krp: 口不可以致其意貎不可以立其狀若道}
   - {type: variant, offset: 92, length: 8, content: 說曰芴乎芒乎中有, WYG: ''}
   - {type: variant, offset: 92, length: 8, content: 說曰芴乎芒乎中有, krp: ''}
+  - {type: substitution, offset: 92, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 93, content: ，, id: KR3j0006_tls_003-bkkpn35}
   - {type: punctuation, offset: 94, content: ：, id: KR3j0006_tls_003-bkkpn36}
   - {type: xml-element, offset: 94, content: '', id: KR3j0006_tls_003-bkkxmlele5}
@@ -230,4 +231,4 @@ markers:
   - {type: page-break, offset: 139, content: '', id: KR3j0006_WYG_003-26b, image: WYG0848/WYG0848-0244b.png}
   - {type: variant, offset: 139, length: 0, content: '', krp: 之道天武之類也今或僵尸百萬流血千里而勝未決也以為功計之每已不若是故聖人昭然獨思或作得恩忻然獨喜若夫耳聞金鼓之聲而希功目見旌旗或作祀祺之色而希陳手握兵刃之枋而希戰枋柄也出進合鬬而希勝是襄主之所破亡也武靈慨然歎曰存亡在身微乎哉福之所生寡人聞此日月有以自觀昔克徳者不詭命得案一本無得字要者其言不衆鶡冠子卷下}
   back: []
-hash: sha256:740ff13b098a453f281d2d4a6e7e729921b1f1b6e438f1ee9ee15f2ad213ed5d
+hash: sha256:027bd845524c4e6c4de719fef66ecb789bf3041e369d2f8256b62dc97b1d730f
