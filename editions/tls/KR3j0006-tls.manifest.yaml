@@ -41,7 +41,7 @@ assets:
   - {seq: 18, filename: KR3j0006_018-tls.yaml, hash: 'sha256:99554276391f2a2ad5c87a74e724646e5d108e62eea1238038816f989b0a5eb6'}
   - {seq: 19, filename: KR3j0006_019-tls.yaml, hash: 'sha256:8a3959da2afb7348675a72d12adba5d0dc54c3d18d287c3c37fbd3af0b05b0b4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3j0006_001-tls.markers.yaml, hash: 'sha256:7e8dcebc76e56fb1a942a4b84280873e1dedace38c1e4ce97729ad6f94008df5'}
+  - {seq: 1, role: markers, filename: assets/KR3j0006_001-tls.markers.yaml, hash: 'sha256:403555a9a98376db8dfdb328f6f849cd082e00f399cf4239e3a73727aab9bf4e'}
   - {seq: 2, role: markers, filename: assets/KR3j0006_002-tls.markers.yaml, hash: 'sha256:e820657afbdacf6fb781ffd3773cfa58db0e4f837f57d940004c0869a5b16be3'}
   - {seq: 3, role: markers, filename: assets/KR3j0006_003-tls.markers.yaml, hash: 'sha256:737fb6ac0ce3789a43e0b0c48ce8441c750b958eb7242d18fffc35f9ca271f48'}
   - {seq: 4, role: markers, filename: assets/KR3j0006_004-tls.markers.yaml, hash: 'sha256:802ec85e17ed9f0724e6b4b0fba65951d3884ac7b2dca0740e1601cf20cf7fc3'}
@@ -57,7 +57,7 @@ assets:
   - {seq: 14, role: markers, filename: assets/KR3j0006_014-tls.markers.yaml, hash: 'sha256:1a74368c0c61ff8172edffa120a24853823421c6bfcf9f005d071a417de475bf'}
   - {seq: 15, role: markers, filename: assets/KR3j0006_015-tls.markers.yaml, hash: 'sha256:6379d88a14edc0d447f7109d3ff82eb5bfc42a1378d26f146b79695528478ef4'}
   - {seq: 16, role: markers, filename: assets/KR3j0006_016-tls.markers.yaml, hash: 'sha256:bb65728c062af4495ef4c4c0d29eb65809d1d5b0d41d6985c49e5fc52ec74f13'}
-  - {seq: 17, role: markers, filename: assets/KR3j0006_017-tls.markers.yaml, hash: 'sha256:d9373cc9d42bc23891392c26d615f7e60d3c049f915a04677d6fd3914b1561a7'}
+  - {seq: 17, role: markers, filename: assets/KR3j0006_017-tls.markers.yaml, hash: 'sha256:5f9e6948c3aa451c4662779a48ecbdf11ace11e9e0b72e1de33bf5ce186ee1d7'}
   - {seq: 18, role: markers, filename: assets/KR3j0006_018-tls.markers.yaml, hash: 'sha256:3323c99dd622c001b9e471e5cf4e7ad18e92d835d9489b4d3672f28564f49f14'}
   - {seq: 19, role: markers, filename: assets/KR3j0006_019-tls.markers.yaml, hash: 'sha256:2df323747055c2fa77fd4e4ad777cca01e98200539f3d4183f0254c993690bff'}
 table_of_contents:
@@ -431,4 +431,4 @@ table_of_contents:
   label: 武靈王第十九
   type: section
   level: 1
-hash: sha256:ef3a5fe708c7f2c949670a1ddca92cb4068cd9d9c2d97168f85dd146d62bf4d6
+hash: sha256:ecdbf0d7cb2618cae306e78d594f8141c7e56fa18a1e95781ee24b88af8a6729
